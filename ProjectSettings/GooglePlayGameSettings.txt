@@ -1,0 +1,9 @@
+lastUpgrade=00935
+proj.pluginVersion=0.9.35
+proj.AppId=656100924589
+and.BundleId=fi.koudata.fingerclicker
+proj.classDir=Assets
+proj.ConstantsClassName=FingerClicker.GPGSIds
+and.ResourceData=%3c%3fxml+version%3d%221.0%22+encoding%3d%22utf-8%22%3f%3e%0d%0a%3c%21--%0d%0aGoogle+Play+game+services+IDs.%0d%0aSave+this+file+as+res%2fvalues%2fgames-ids.xml+in+your+project.%0d%0a--%3e%0d%0a%3cresources%3e%0d%0a++%3cstring+name%3d%22app_id%22%3e656100924589%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22package_name%22%3efi.koudata.fingerclicker%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_first_click%22%3eCgkIrbmmlYwTEAIQAA%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_dozen%22%3eCgkIrbmmlYwTEAIQAQ%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_meaning_of_life%22%3eCgkIrbmmlYwTEAIQAg%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_lol%22%3eCgkIrbmmlYwTEAIQAw%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_blaze_it%22%3eCgkIrbmmlYwTEAIQBA%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_1337%22%3eCgkIrbmmlYwTEAIQBQ%3c%2fstring%3e%0d%0a%3c%2fresources%3e%0d
+and.ClientId=
+proj.requireGPlus=false
